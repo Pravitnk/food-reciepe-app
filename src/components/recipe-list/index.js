@@ -6,7 +6,6 @@ import {
   CardHeader,
   CardTitle,
 } from "@/components/ui/card";
-import { Receipt } from "lucide-react";
 import Link from "next/link";
 const RecipeList = ({ recipeList }) => {
   return (
